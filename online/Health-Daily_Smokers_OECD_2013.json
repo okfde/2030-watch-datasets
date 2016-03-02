@@ -93,11 +93,6 @@
                     "value": 11.4,
                     "score": 2
                 },
-                {
-                    "name": "India",
-                    "value": -1,
-                    "score": 6
-                },
 
                 {
                     "name": "Israel",
@@ -160,11 +155,7 @@
                     "value": 22,
                     "score": 4
                 },
-                {
-                    "name": "Slovakia",
-                    "value": -1,
-                    "score": 6
-                },
+
                 {
                     "name": "Slovenia",
                     "value": 20.5,
