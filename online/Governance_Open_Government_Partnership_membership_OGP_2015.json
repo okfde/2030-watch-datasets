@@ -11,7 +11,7 @@
         "multiplier": "1"
     },
     "target": {
-         "type": "more"
+         "type": "more",
          "value": "5"
     },
     "source_of_data": "Open Government Partnership",
