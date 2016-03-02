@@ -11,7 +11,7 @@
         "multiplier": "1"
     },
     "target": {
-        "type": "less,
+        "type": "less",
         "value": "10"
     },
     "source_of_data": "OECD",
