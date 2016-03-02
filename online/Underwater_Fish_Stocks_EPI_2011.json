@@ -11,7 +11,7 @@
         "multiplier": "1"
     },
     "target": {
-        "type": "less,
+        "type": "less",
         "value": "0"
     },
     "source_of_data": "Yale Environmental Performance Index; Sea Around Us Project, University of British Columbia Fisheries Centre, 2013,Enviromental Performance Index",
