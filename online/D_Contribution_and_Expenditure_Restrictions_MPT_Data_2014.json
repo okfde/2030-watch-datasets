@@ -43,6 +43,8 @@
     "additional_information": "",
     "scoring": [
         {
+            "timestamp_data_host": "18-12-2015",
+            "timestamp": "18-12-2015",
             "countries": [
                 {
                     "name": "Germany",
