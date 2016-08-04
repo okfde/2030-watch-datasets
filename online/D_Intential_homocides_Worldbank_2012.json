@@ -13,7 +13,7 @@
     "baseunit": "Menschen",
     "target": {
         "type": "less",
-        "value": "100000",
+        "value": "0",
         "breakpoints_old": "A) Wertung 1-5,1,2,3,4,5 B) Methode,1,2,3,4,50",
         "rating": [1, 2, 3, 4],
         "explanation": "Je weniger Tötungsdelikte, desto besser.",
