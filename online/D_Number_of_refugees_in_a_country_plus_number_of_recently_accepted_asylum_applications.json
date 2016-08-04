@@ -14,7 +14,7 @@
     "target": {
         "type": "more",
         "breakpoints_old": "A) Wertung 1-5,5,4,3,2,1 A) Wertung 1-6,50,250,400,550,700",
-        "value": "0.000000007",
+        "value": "700",
         "rating": [550, 400, 250, 50]
     },
     "tags": [
