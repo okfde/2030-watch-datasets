@@ -13,7 +13,7 @@
     "baseunit": "€/km2",
     "target": {
         "breakpoints_old": "A) Wertung 1-5,5,4,3,2,1 B) Methode,60,80,100,120,140",
-        "value": "140000000",
+        "value": "140",
         "type": "more",
         "rating": [120, 100, 80, 60]
     },
